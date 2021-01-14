@@ -6,10 +6,10 @@ MenudanPromo
 Aplikasi simulasi pembelian makanan/minuman sederhana menggunakan promo/voucher.
 
 Fungsi
-User dapat melihat daftar makanan, minuman, dan voucher atau promo
-User dapat memasukkan atau menghapus makanan, minuman, dan voucher atau promo
-User dapat hanay bisa menggunakan satu voucher
-User dapat melihat total harga beserta potongannya
+- User dapat melihat daftar makanan, minuman, dan voucher atau promo
+- User dapat memasukkan atau menghapus makanan, minuman, dan voucher atau promo
+- User dapat hanay bisa menggunakan satu voucher
+- User dapat melihat total harga beserta potongannya
 How Does it works?
 Simulasi ini menggunakan 4 buah model dan 3 buah controller yang bertujuan untuk menjalankan program tersebut
 
